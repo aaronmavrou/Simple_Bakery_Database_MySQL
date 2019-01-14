@@ -1,0 +1,50 @@
+
+insert into Ingredient values(1 , 'flour' , 100, 12);
+insert into Ingredient values(2 , 'milk' , 100, 12);
+insert into Ingredient values(3 , 'egg' , 100, 12);
+insert into Ingredient values(4 , 'gluten-free flour' , 100, 12);
+insert into Ingredient values(5 , 'baking powder' , 100, 12);
+insert into Ingredient values(6 , 'sugar' , 100, 12);
+insert into Ingredient values(7 , 'salt' , 100, 12);
+insert into Ingredient values(8 , 'vanilla' , 100, 12);
+insert into Ingredient values(9 , 'icing' , 100, 12);
+insert into Ingredient values(10 , 'candy' , 100, 12);
+insert into Ingredient values(11 , 'vegetable oil' , 100, 12);
+insert into Ingredient values(12 , 'apple' , 100, 12);
+insert into Ingredient values(13 , 'banana' , 100, 12);
+insert into Ingredient values(14 , 'chocolate chips' , 100, 12);
+insert into Ingredient values(15 , 'blueberries' , 100, 12);
+insert into Ingredient values(16 , 'cocoa powder' , 100, 12);
+insert into Ingredient values(17 , 'butter' , 100, 12);
+insert into Ingredient values(18 , 'carrots' , 100, 12);
+insert into Ingredient values(19 , 'maple syrup' , 100, 12);
+insert into Ingredient values(20 , 'strawberries' , 100, 12);
+insert into Ingredient values(21 , 'cream cheese' , 100, 12);
+insert into Ingredient values(22 , 'raisins' , 100, 12);
+insert into Ingredient values(23 , 'oats' , 100, 12);
+insert into Ingredient values(24 , 'brown sugar' , 100, 12);
+insert into Ingredient values(25 , 'vanilla ice cream' , 100, 12);
+insert into Ingredient values(26 , 'chocolate ice cream' , 100, 12);
+insert into Ingredient values(27 , 'peaches' , 100, 12);
+insert into Ingredient values(28 , 'pecans' , 100, 12);
+insert into Ingredient values(29 , 'ice cream cones' , 100, 12);
+insert into Ingredient values(30 , 'water' , 100, 12);
+insert into Ingredient values(31 , 'walnuts' , 100, 12);
+insert into Ingredient values(32 , 'peanut butter' , 100, 12);
+insert into Ingredient values(33 , 'cinnamon' , 100, 12);
+insert into Ingredient values(34 , 'food dye' , 100, 12);
+insert into Ingredient values(35 , 'espresso powder' , 100, 12);
+insert into Ingredient values(36 , 'oreos' , 100, 12);
+insert into Ingredient values(37 , 'sprinkles' , 100, 12);
+insert into Ingredient values(38 , 'white chocolate chips' , 100, 12);
+insert into Ingredient values(39 , 'whipped cream' , 100, 12);
+insert into Ingredient values(40 , 'lemons' , 100, 12);
+insert into Ingredient values(41 , 'cherries' , 100, 12);
+insert into Ingredient values(42 , 'corn starch' , 100, 12);
+insert into Ingredient values(43 , 'poppy seeds' , 100, 12);
+insert into Ingredient values(44 , 'rhubarb' , 100, 12);
+insert into Ingredient values(45 , 'caramel' , 100, 12);
+insert into Ingredient values(46 , 'pumpkin' , 100, 12);
+
+
+

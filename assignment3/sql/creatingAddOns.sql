@@ -1,0 +1,25 @@
+insert into AddOns values(1 , 'gluten-free flour' , 4, 8);
+insert into AddOns values(2 , 'icing' , 9, 3);
+insert into AddOns values(3 , 'candy' , 10, 4);
+insert into AddOns values(4 , 'apple' , 12, 3);
+insert into AddOns values(5 , 'banana' , 13, 3);
+insert into AddOns values(6 , 'chcolate chips' , 14, 4);
+insert into AddOns values(7 , 'blueberries' , 15, 5);
+insert into AddOns values(8 , 'maple syrup' , 19, 3);
+insert into AddOns values(9 , 'strawberries' , 20, 3);
+insert into AddOns values(10 , 'raisins' , 22, 1);
+insert into AddOns values(11 , 'vanilla ice cream' , 25, 3);
+insert into AddOns values(12 , 'chocolate ice cream' , 26, 3);
+insert into AddOns values(13 , 'peaches' , 27, 3);
+insert into AddOns values(14 , 'pecans' , 28, 6);
+insert into AddOns values(15 , 'walnuts' , 31, 6);
+insert into AddOns values(16 , 'peanut butter' , 32, 3);
+insert into AddOns values(17 , 'food dye' , 34, 1);
+insert into AddOns values(18 , 'oreos' , 36, 5);
+insert into AddOns values(19 , 'sprinkles' , 37, 2);
+insert into AddOns values(20 , 'white chcolate chips' , 38, 4);
+insert into AddOns values(21 , 'whipped cream' , 39, 3);
+insert into AddOns values(22 , 'lemons' , 40, 3);
+insert into AddOns values(23 , 'cherries' , 41, 3);
+insert into AddOns values(24 , 'caramel' , 45, 2);
+

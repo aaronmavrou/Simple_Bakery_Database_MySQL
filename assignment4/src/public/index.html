@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<button id="mavsbutton" class="btn-success" onclick="logout()">Login</button>
+
+<body>
+    <div id="myDiv" style = "display: none;">
+        <div class= "headerspace">
+                <h1>AEO BAKKERY</h1>
+        
+                <img src="cupcake.jpg" width = "200px" height="270px">
+                <img src="cookie.jpg" width = "200px" height="270px">
+                <img src="oreocake.jpg"  width = "320px" height="270px">
+                <img src="cinn.jpg" width = "300px" height="270px">
+                <img src="chocolate.jpg" width = "200px" height="270px">
+                <img src="apple.jpg" width = "270px" height="270px">
+        </div>
+      
+        <div>
+            <input id="itemInput" type="text">
+            <button class = "btn-danger" onclick="deleteReview()">Delete A Review By Id</button>
+        </div>
+        <br>
+        <hr>
+        <br>
+        <div>
+            <input id="productInput" type="text">
+            <button class = "btn-danger" onclick="deleteProduct()">Delete A Product By Name</button>
+        </div>
+        
+
+        <button class="btn-info" onclick="getReviews()">Get Reviews</button>
+        <button class="btn-info" onclick="getAllProducts()">View all products</button>
+        <button class="btn-info" onclick="getAllAddons()">View all add-ons</button>
+        <button class="btn-info" onclick="viewAllVanilla()">View all Vanilla Products!</button>
+        <button class="btn-info" onclick="viewCustomers500()">View Customers who spend over $500</button>
+        <button class="btn-info" onclick="customersWithAddOns()">View Customers who got AddOns</button>
+        <button class="btn-info" onclick="ratings()">View Product Ratings</button>
+        <button class="btn-info" onclick="averageRatings()">View Product Average Ratings</button>
+        <button class="btn-info" onclick="christmasProducts()">View Products Bought on Christmas</button>
+        <table class="table" id="basket"></table>
+
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
